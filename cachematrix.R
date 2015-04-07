@@ -7,6 +7,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 }
 
+#burasi yeni
 
 ## Write a short comment describing this function
 
